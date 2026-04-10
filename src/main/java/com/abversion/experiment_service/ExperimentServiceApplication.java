@@ -1,5 +1,6 @@
 package com.abversion.experiment_service;
 
+import com.abversion.experiment_service.ExperimentController.ExperimentController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
